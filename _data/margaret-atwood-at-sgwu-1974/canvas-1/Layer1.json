@@ -1,0 +1,113 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas/Layer1.json",
+  "type": "AnnotationPage",
+  "label": "Layer1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas/Layer1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduction",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "321.969671,445.733899"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas/Layer1-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "applause",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "448.017372,458.749694"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas/Layer1-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "cut in tape",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "450.529192,453.041012"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas/Layer1-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title of her book is \"You are Happy\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "508.072708"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas/Layer1-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Newsreel: Man and Firing Squad\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "604.435262,694.632439"
+        }
+      }
+    }
+  ]
+}

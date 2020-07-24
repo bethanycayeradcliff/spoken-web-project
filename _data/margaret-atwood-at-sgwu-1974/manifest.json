@@ -23,6 +23,14 @@
         "id": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3586.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/canvas/Layer1.json",
+            "label": "Layer1"
+          }
+        ],
         "items": [
           {
             "id": "https://bethanycayeradcliff.github.io/spoken-web-project/margaret-atwood-at-sgwu-1974/canvas-1/paintings",
